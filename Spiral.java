@@ -117,5 +117,8 @@ public class Spiral {
 
 		//git polling with jenkins test
 		System.out.println("git polling with jenkins test");
+
+		//git web hooks test on git with jenkins
+		System.out.println("Hello CaptainHook aye!");
 	}
 }
