@@ -114,5 +114,8 @@ public class Spiral {
 
 		// Print the Spiral Pattern
 		printSpiral(size);
+
+		//git polling with jenkins test
+		System.out.println("git polling with jenkins test");
 	}
 }
