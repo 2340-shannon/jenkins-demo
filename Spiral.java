@@ -120,5 +120,6 @@ public class Spiral {
 
 		//git web hooks test on git with jenkins
 		System.out.println("Hello CaptainHook aye!");
+		System.out.println("CaptainHook test 2...");
 	}
 }
