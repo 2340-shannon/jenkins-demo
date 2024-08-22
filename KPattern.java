@@ -6,6 +6,8 @@ public class KPattern {
     // Function to demonstrate pattern
     public static void printPattern(int n)
     {
+        System.out.print("K-Pattern");
+        
         int i, j;
 
         // outer loop to handle rows
