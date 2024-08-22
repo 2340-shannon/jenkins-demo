@@ -7,6 +7,7 @@ public class KPattern {
     public static void printPattern(int n)
     {
         System.out.print("K-Pattern");
+        System.out.print("Hello CaptainHook aye!");
         
         int i, j;
 
